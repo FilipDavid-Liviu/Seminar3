@@ -41,17 +41,46 @@ Papanasul, now, in a very special situation, has to decide if he should:
 Mister policeman and Papanash have insane, crazy anime battle for machine gun, but ultimately the police guy
 is dead in the end. Papanash boards the planbe.
     204 -> terrorism!
-    GO TO 4 -> Papanash, after fainting upon boarding the plane wakes up in Targoviste so he decides to teleport 
+    4 -> Papanash, after fainting upon boarding the plane wakes up in Targoviste so he decides to teleport 
 
 201
 Mister policeman : "Oh no no passport, yummy papanash tho, you sure no have passport?"
-   GO TO 2
+   2
 
 202
 Mister policeman : "Oh no no passport, you sure no have passport, check pockets?"
-   GO TO 2
+   2
 
 203
 Police Man : "Cool buddy! Go in"
-    GO TO 204 -> Machine gun was hidden the whole time !!!
+    204 -> Machine gun was hidden the whole time !!!
     205 -> Papanash takes the flight normally
+
+205
+Papanash Has a 
+    204 -> Horrible flight and many many babies crying
+    206 -> Good flight, restful and great
+
+206
+Upon arrival in New York, he decides to go about his mission to KILL John
+    207 -> Ask the lady on the street about whereabouts of the president
+    208 -> He trusts his instincts and goes to the Oval Office
+
+207
+The lady on the street introduces herself as Mary, and says that JFK is 2 blocks away in his apartment.
+    209 -> trust lady on street and go to the apartment
+    210 -> Papanas spin drop-kicks the lady because she is not trustworthy.
+
+208
+TODO -> leaga de teleport (4)
+
+209
+The apartment he goes into is baren and old-timey. The furniture and walls stink of cologne and cats.
+    211 -> Search the apartment further
+    207 -> go back to the old woman Mary
+
+210
+THE OLD WOMAN MARY WAS ACTUALLY JFK ALL ALONG
+
+211
+papanas is hungry. papanas is crushed to ded by fridge. all he wanted was Panemar senvis
