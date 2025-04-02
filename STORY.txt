@@ -14,3 +14,31 @@ He travels to New York.
     2 -> He travels by plane
     3 -> He travels by Sea
     4 -> He teleports
+
+2
+Airport security time! 
+What does Papanash have in his suitcase (vry professional)
+    200 -> machine gun >:), 
+    201 -> another papanash
+    202 -> nothind
+    203 -> passport
+
+200
+Mister policeman and Papanash have insane, crazy anime battle for machine gun, but ultimately the police guy
+is dead in the end. Papanash boards the planbe.
+    204 -> terrorism!
+    GO TO 4 -> Papanash, after fainting upon boarding the plane wakes up in Targoviste so he decides to teleport 
+
+201
+Mister policeman : "Oh no no passport, yummy papanash tho, you sure no have passport?"
+   GO TO 2
+
+202
+Mister policeman : "Oh no no passport, you sure no have passport, check pockets?"
+   GO TO 2
+
+203
+Police Man : "Cool buddy! Go in"
+    GO TO 204 -> Machine gun was hidden the whole time !!!
+    205 -> Papanash takes the flight normally
+
