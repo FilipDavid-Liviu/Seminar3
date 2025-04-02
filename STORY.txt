@@ -63,23 +63,31 @@ Papanasul, now, in a very special situation, has to decide if he should:
     6 -> Apologize to the cat and ask for directions
     7 -> Papanasul unlocks his inner magic powers
 
+5
+Papanasul, fueled by adrenaline, lunges at the cat, but the feline swiftly dodges, leaving him to crash into the desk. 
+The cat, now amused, flicks its tail and says, "Is that all you've got? I've faced tougher mice!" 
+Realizing he needs a new strategy, Papanasul decides to charm the cat with a dance, hoping to win its favor instead of a fight.
+
+    501 -> Papanasul performs an elaborate dance, captivating the cat with his moves.
+    502 -> Papanasul offers the cat a piece of his kebab in hopes of winning its trust.
+
 200
 Mister policeman and Papanash have insane, crazy anime battle for machine gun, but ultimately the police guy
 is dead in the end. Papanash boards the planbe.
     204 -> terrorism!
-    GO TO 4 -> Papanash, after fainting upon boarding the plane wakes up in Targoviste so he decides to teleport 
+    4 -> Papanash, after fainting upon boarding the plane wakes up in Targoviste so he decides to teleport 
 
 201
 Mister policeman : "Oh no no passport, yummy papanash tho, you sure no have passport?"
-   GO TO 2
+   2
 
 202
 Mister policeman : "Oh no no passport, you sure no have passport, check pockets?"
-   GO TO 2
+   2
 
 203
 Police Man : "Cool buddy! Go in"
-    GO TO 204 -> Machine gun was hidden the whole time !!!
+    204 -> Machine gun was hidden the whole time !!!
     205 -> Papanash takes the flight normally
 
 204 
@@ -89,6 +97,34 @@ I am:
   2041 -> the liberator
   2042 -> *spontaneously combusts, because of his many many explosives he has on board. The plane crashes somewhere over Spain. PAPANASH DIES*
 
+205
+Papanash Has a 
+    204 -> Horrible flight and many many babies crying
+    206 -> Good flight, restful and great
+
+206
+Upon arrival in New York, he decides to go about his mission to KILL John
+    207 -> Ask the lady on the street about whereabouts of the president
+    208 -> He trusts his instincts and goes to the Oval Office
+
+207
+The lady on the street introduces herself as Mary, and says that JFK is 2 blocks away in his apartment.
+    209 -> trust lady on street and go to the apartment
+    210 -> Papanas spin drop-kicks the lady because she is not trustworthy.
+
+208
+TODO -> leaga de teleport (4)
+
+209
+The apartment he goes into is baren and old-timey. The furniture and walls stink of cologne and cats.
+    211 -> Search the apartment further
+    207 -> go back to the old woman Mary
+
+210
+THE OLD WOMAN MARY WAS ACTUALLY JFK ALL ALONG
+
+211
+papanas is hungry. papanas is crushed to ded by fridge. all he wanted was Panemar senvis
 
 302
 He sees a short lady looking through the glass of a purse shop. 'An easy target!' he says to himself.
@@ -104,13 +140,6 @@ She leaves, but very dizzy, he gets up, but stumbles right in the shady alley be
 but this time his head hits a pipe and it cracks. He dies in a god forgotten street in Inbstanbul.
 
 
-5
-Papanasul, fueled by adrenaline, lunges at the cat, but the feline swiftly dodges, leaving him to crash into the desk. 
-The cat, now amused, flicks its tail and says, "Is that all you've got? I've faced tougher mice!" 
-Realizing he needs a new strategy, Papanasul decides to charm the cat with a dance, hoping to win its favor instead of a fight.
-
-    501 -> Papanasul performs an elaborate dance, captivating the cat with his moves.
-    502 -> Papanasul offers the cat a piece of his kebab in hopes of winning its trust.
 
 2041
 I am the liberator! *baby cries* Papanash has a speech about how he will liberate the people in America, because he is tired of living in such conditions. (Btw, he is romanian). He remembers about Batalia de la Podu Inalt, but he doesnt know details so he stops.
