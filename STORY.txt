@@ -72,3 +72,13 @@ Realizing he needs a new strategy, Papanasul decides to charm the cat with a dan
 
     501 -> Papanasul performs an elaborate dance, captivating the cat with his moves.
     502 -> Papanasul offers the cat a piece of his kebab in hopes of winning its trust.
+
+501
+Papanasul begins to dance, but his moves are so ridiculous that the cat can't help but laugh. 
+"Is that a dance or a seizure?" the cat chuckles, rolling on the desk. 
+Papanasul, embarrassed, trips over his own feet and lands face-first into the kebab, 
+mumbling, "At least I have good taste!" 
+The cat, now in stitches, replies, "You might want to stick to stealing, buddy!"
+
+
+
