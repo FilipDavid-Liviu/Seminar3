@@ -29,6 +29,32 @@ He dreamt of eating a local kebab but he doesnt have the turkish lira.
 He decides to:
     301 -> Steal from a man 
     302 -> Steal from a woman
+    
+301
+He sees an old hungry man in the shipyard standing on a bench. He goes to him and introduces himself.
+The old man is stunned when he hears him talk, but this doesn't stop him from trying to grab him so he can 
+eat him. This papanas is no ordinary papanas, he is skilled in the arts of fighting.
+    303 -> he rolls through his sleve and knoks him down with an uppercut
+    304 -> he pulls out a gun and shoots the man
+    305 -> he talks the man out of the idea
+303
+Papanas surprises the old man with his bold move and knoks him down in one hit, gets his wallet but surprisee,
+no money in there. Afraid of not being caught the papanas goes back to his cruise hungry and dissapointed (see 320)
+304 
+When the old man sees the pistol comming his way he disrupts the simulation and doges the bullets. Before our papanas can bat an eye 
+he is grabed and eaten by this old hungry man.
+305 
+He stops the man right before he can eat him and he tels him about his family and the beautifull papanas children, about his dream of 
+going to the USA, and about EATING KEBAB. the old man is moved by the kebab story so he choses to help the papanas so they go togheter to the bank
+to extract money.
+    306 -> steal his credit card and run
+    307 -> be peacefull
+306
+when we get to the bank the papanas takes a peak and memorises the old mans credit card pin. Right after the old man got his money
+the papanas attacks with an uppercut but its to slow and the old man grabs him and eats him, dissapointed in his betrail.
+307
+They happily go and eat the kebab!
+
 4
 He teleports right into the Oval Office, but instead of JFK, he lands on a confused cat sitting on the president's desk.
 The cat looks at him and meows, "You got the wrong address, buddy!" 
