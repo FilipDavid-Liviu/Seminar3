@@ -55,3 +55,12 @@ Mister policeman : "Oh no no passport, you sure no have passport, check pockets?
 Police Man : "Cool buddy! Go in"
     GO TO 204 -> Machine gun was hidden the whole time !!!
     205 -> Papanash takes the flight normally
+
+
+302
+He sees a short lady looking through the glass of a purse shop. 'An easy target!' he says to himself.
+He slowly and menacingly approaches her, but right in the last moment he turns around. Turns out she was a very beautiful Sarma.
+Surprised, she says furious some words in turkish.
+He decides:
+    310 -> As a proud citizen of the Romanian nation decides to mimic some turkish gibberish and yell back
+    311 -> Cower in fear of the turkish woman and decides to steal from a man.
