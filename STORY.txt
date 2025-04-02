@@ -14,3 +14,11 @@ He travels to New York.
     2 -> He travels by plane
     3 -> He travels by Sea
     4 -> He teleports
+
+
+3
+Our Papanas takes a passenger ship in the port of Constanta. On his way, the ship stops in Istanbul.
+He dreamt of eating a local kebab but he doesnt have the turkish lira. 
+He decides to:
+    301 -> Steal from a man 
+    302 -> Steal from a woman
