@@ -55,3 +55,12 @@ Mister policeman : "Oh no no passport, you sure no have passport, check pockets?
 Police Man : "Cool buddy! Go in"
     GO TO 204 -> Machine gun was hidden the whole time !!!
     205 -> Papanash takes the flight normally
+
+5
+Papanasul, fueled by adrenaline, lunges at the cat, but the feline swiftly dodges, leaving him to crash into the desk. 
+The cat, now amused, flicks its tail and says, "Is that all you've got? I've faced tougher mice!" 
+Realizing he needs a new strategy, Papanasul decides to charm the cat with a dance, hoping to win its favor instead of a fight.
+
+    501 -> Papanasul performs an elaborate dance, captivating the cat with his moves.
+    502 -> Papanasul offers the cat a piece of his kebab in hopes of winning its trust.
+
