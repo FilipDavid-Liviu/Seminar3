@@ -15,6 +15,13 @@ He travels to New York.
     3 -> He travels by Sea
     4 -> He teleports
 
+
+3
+Our Papanas takes a passenger ship in the port of Constanta. On his way, the ship stops in Istanbul.
+He dreamt of eating a local kebab but he doesnt have the turkish lira. 
+He decides to:
+    301 -> Steal from a man 
+    302 -> Steal from a woman
 4
 He teleports right into the Oval Office, but instead of JFK, he lands on a confused cat sitting on the president's desk.
 The cat looks at him and meows, "You got the wrong address, buddy!" 
