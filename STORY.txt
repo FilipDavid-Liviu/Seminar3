@@ -14,3 +14,13 @@ He travels to New York.
     2 -> He travels by plane
     3 -> He travels by Sea
     4 -> He teleports
+
+4
+He teleports right into the Oval Office, but instead of JFK, he lands on a confused cat sitting on the president's desk.
+The cat looks at him and meows, "You got the wrong address, buddy!" 
+Papanasul, now, in a very special situation, has to decide if he should:
+    5 -> Starts fighting the cat
+    6 -> Apologize to the cat and ask for directions
+    7 -> Papanasul unlocks his inner magic powers
+
+
