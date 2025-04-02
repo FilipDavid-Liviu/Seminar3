@@ -63,4 +63,9 @@ He slowly and menacingly approaches her, but right in the last moment he turns a
 Surprised, she says furious some words in turkish.
 He decides:
     310 -> As a proud citizen of the Romanian nation decides to mimic some turkish gibberish and yell back
-    311 -> Cower in fear of the turkish woman and decides to steal from a man.
+    301 -> Cower in fear of the turkish woman and decides to steal from a man.
+
+310
+The woman slaps him with her purse. Then she slaps him again. Then again. Papanas falls to the ground.
+She leaves, but very dizzy, he gets up, but stumbles right in the shady alley behind the shop. Felling heavy, he falls again,
+but this time his head hits a pipe and it cracks. He dies in a god forgotten street in Inbstanbul.
